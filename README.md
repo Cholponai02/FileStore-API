@@ -11,7 +11,7 @@ This is a specialized **ASP.NET Core Web API** designed for managing file storag
 
 ## 🛠 Tech Stack
 * **Language:** C#
-* **Framework:** .NET 8 / ASP.NET Core (уточни свою версию)
+* **Framework:** .NET 8 / ASP.NET Core 
 * **API Style:** RESTful
 
 ## 🧪 How to Use
